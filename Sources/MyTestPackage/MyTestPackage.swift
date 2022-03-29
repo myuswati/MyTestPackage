@@ -1,7 +1,7 @@
 import SwiftUI
 
 @available(iOS 15, *)
-public struct MyTestPackage {
+public struct MyTestPackage: View {
 
     public init() {
     }
