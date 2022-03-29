@@ -24,7 +24,7 @@ struct WelcomeVideoCardView: View {
             }
             Spacer()
                 .frame(height: 16)
-            let videoURL: URL = Bundle.main.url(forResource: "video", withExtension: "mp4")!
+            let videoURL: URL = PackageManager.bundle.url(forResource: "video", withExtension: "mp4")!
             
             VideoPlayer(player: AVPlayer(url:  videoURL)) {
             }
