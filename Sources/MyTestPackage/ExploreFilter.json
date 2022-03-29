@@ -1,0 +1,69 @@
+{
+    "filters": [
+        {
+            "category": "Category",
+            "subCategory": [{
+                    "id": 1,
+                    "title": "All Categories",
+                    "count": 3450
+                },
+                {
+                    "id": 2,
+                    "title": "Products",
+                    "count": 30
+                    
+                },
+                {
+                    "id": 3,
+                    "title": "Sponsoring",
+                    "count": 0
+                }
+            ]
+        },
+        {
+            "category": "Skills",
+            "subCategory": [{
+                    "id": 4,
+                    "title": "Leadership",
+                    "count": 3450
+                },
+                {
+                    "id": 5,
+                    "title": "Comp & Recognition",
+                    "count": 450
+                }
+            ]
+        },
+        {
+            "category": "Keywords",
+            "subCategory": [{
+                    "id": 6,
+                    "title": "Leadership",
+                    "count": 3450
+                },
+                {
+                    "id": 7,
+                    "title": "Comp & Recognition",
+                    "count": 450
+                },
+                {
+                    "id": 8,
+                    "title": "All Categories",
+                    "count": 0
+                },
+                {
+                    "id": 9,
+                    "title": "Products",
+                    "count": 30
+                    
+                },
+                {
+                    "id": 10,
+                    "title": "Sponsoring",
+                    "count": 0
+                }
+            ]
+        }
+    ]
+}
+

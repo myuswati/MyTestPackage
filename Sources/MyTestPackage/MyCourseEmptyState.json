@@ -1,0 +1,52 @@
+{
+    "CoursesEmptyState" : [
+        {
+           "id" : 0,
+           "courseImageURL":  "NoRequiredCourses",
+           "courseTitle" : "No Required Courses",
+           "courseDescription":  "You do not have any required courses.",
+           "courseType": "Required",
+           "coursesButtonTitle": "Explore Courses"
+        },
+        {
+             "id" : 1,
+           "courseImageURL":  "NoInprogressCourses",
+           "courseTitle" : "No Courses In-Progress",
+            "courseDescription":  "Start your first Course today and start your journey to level up as an ABO!",
+          "courseType": "In Progress",
+          "coursesButtonTitle": "Explore Courses"
+        },
+        {
+             "id" : 2,
+           "courseImageURL":  "NoSharedCourses",
+           "courseTitle" : "No Shared Courses",
+            "courseDescription":  "Ask other ABOs about their favorite courses and have them send you a link for quick access! Or ask your Upline for Courses that will help you grow your business!",
+          "courseType": "Shared",
+          "coursesButtonTitle": "Explore Courses"
+        },
+        {
+             "id" : 3,
+           "courseImageURL":  "NoFavoriteCourses",
+           "courseTitle" : "Favorites Empty!",
+            "courseDescription":  "Click the Heart Icon on the Course Details drawer to Favorite a course and then come back here to easily find it later!",
+          "courseType": "Favorite",
+          "coursesButtonTitle": "Explore Courses"
+        },
+        {
+             "id" : 4,
+           "courseImageURL":  "NoDownloadedCourses",
+           "courseTitle" : "No Courses Downloaded",
+            "courseDescription":  "Want to level up while traveling? Try Downloading a course for offline playback!",
+          "courseType": "Downloaded",
+          "coursesButtonTitle": "Explore Courses"
+        },
+        {
+             "id" : 5,
+           "courseImageURL":  "NoCompletedCourses",
+           "courseTitle" : "No Completed Courses",
+            "courseDescription":  "Want to level up while traveling? Try Downloading a course for offline playback!",
+          "courseType": "Completed",
+          "coursesButtonTitle": "Explore Courses"
+        }
+    ]
+}

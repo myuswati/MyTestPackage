@@ -1,0 +1,59 @@
+{
+    "MyCourses" : [
+        
+        {
+             "id" : 2,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "In Progress"
+        },
+        {
+             "id" : 3,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "In Progress"
+        },
+        {
+             "id" : 4,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "Shared"
+        },
+        {
+             "id" : 5,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "Shared"
+        },
+        {
+             "id" : 6,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "Favorite"
+        },
+        {
+             "id" : 7,
+           "courseImageURL":  "",
+           "courseTitle" : "Selling Balance Within™️ Probiotics to Build Your Business",
+            "courseDescription":  "Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want. Start Strong and drive your success with Amway Education to sharpen your competitive edge. Created with you, when and where you want.",
+          "courseDuration": "9m",
+          "coursesCount": "10 Courses",
+          "courseType": "Favorite"
+        }
+    ]
+}

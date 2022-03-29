@@ -1,0 +1,46 @@
+
+{
+    "syllabus": [
+
+        {
+            "header": "Section Name",
+            "showTSection" : "false",
+            "syllabusData": [{
+                    "id": 1,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                },
+                {
+                    "id": 2,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                },
+                {
+                    "id": 3,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                }
+            ]
+        },
+        {
+            "header": "Section Name",
+            "showTSection" : "false",
+            "syllabusData": [{
+                    "id": 1,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                },
+                {
+                    "id": 2,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                },
+                {
+                    "id": 3,
+                    "title": "Video Title",
+                    "subtitle": "Runtime – 3:01 mins"
+                }
+            ]
+        }
+    ]
+}
